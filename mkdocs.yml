@@ -1,0 +1,80 @@
+site_name: Cédric Charrier — Portfolio
+site_description: Video game programmer and designer portfolio — projects, experience, and resume.
+site_author: Cédric Charrier
+
+# IMPORTANT: update these two once you know your GitHub username/repo name.
+# They matter for GitHub Pages to build correct links (especially for the "edit this page" button).
+site_url: https://kylobsii.github.io/portfolio-cedric-charrier/
+repo_url: https://github.com/kylobsii/portfolio-cedric-charrier
+repo_name: kylobsii/portfolio-cedric-charrier
+
+nav:
+  - Home: index.md
+  - Resume: resume.md
+  - Projects:
+      - Chasm: projects/Chasm.md
+      - Full Plastic Shooter: projects/Full_Plastic_Shooter.md
+      - SNCF Serious Game: projects/SNCF_SeriousGame.md
+      - Spiritfarer Randomizer Mod: projects/Spiritfarer_Randomizer_Mod.md
+  - Experience:
+      - Montreal Study Semester: experiences/Montreal_Study_Semester.md
+      - Teaching Video Game Development: experiences/Teaching_Video_Game_Development.md
+
+theme:
+  name: material
+  palette:
+    # Dark/light toggle — visitors can pick, defaults to dark since that's
+    # what your reference site used and it suits a dev portfolio well.
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.tabs        # top nav bar instead of pure sidebar (closer to the Doxygen look)
+    - navigation.tabs.sticky
+    - navigation.top         # "back to top" button
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    #- content.code.copy      # copy button on code blocks
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/kylobsii
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/cédric-charrier-8aa2a0290
+    - icon: fontawesome/solid/envelope
+      link: mailto:c.charrier@rubika-edu.com
+
+copyright: Copyright &copy; 2026 Cédric Charrier

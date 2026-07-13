@@ -1,0 +1,37 @@
+/* Small tweaks to make the Material theme feel a bit more like a personal
+   portfolio and less like default framework docs. Tweak freely. */
+
+:root {
+  --md-primary-fg-color: #4f46e5;
+}
+
+.md-header {
+  font-weight: 600;
+}
+
+/* Slightly bigger, tighter headings for a more "personal site" feel */
+.md-typeset h1 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+/* Card grid used on the home page (index.md) */
+.grid.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.grid.cards .card-title {
+  display: block;
+  font-size: 1rem;
+  margin-bottom: 0.4rem;
+}
+
+.grid.cards > ul,
+.grid.cards > * {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.5rem;
+  padding: 1rem;
+}
