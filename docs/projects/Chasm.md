@@ -21,12 +21,39 @@ One-line pitch — what the game/project is, in a single punchy sentence.
 
 ## Screenshots / Video
 
-<video controls preload="metadata" style="width: 100%; max-width: 800px; height: auto;">
-  <source src="../assets/videos/chasm-trailer.mp4" type="video/mp4">
-</video>
+<figure>
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/3kWtYY4hEWE"
+    title="YouTube video player"
+    frameborder="1"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
 
+  <figcaption align="center">
+    <em>Release Trailer for <strong>Chasm</strong>.</em>
+  </figcaption>
+</figure>
 
-[Chasm trailer](../assets/videos/chasm-trailer.mp4)
+<figure>
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/nwFK70MHryg"
+    title="YouTube video player"
+    frameborder="1"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+
+  <figcaption align="center">
+    <em>Gameplay clip of level 3-1 in <strong>Chasm</strong>.</em>
+  </figcaption>
+</figure>
 
 ## Challenges & what I learned
 
