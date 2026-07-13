@@ -4,9 +4,9 @@ site_author: Cédric Charrier
 
 # IMPORTANT: update these two once you know your GitHub username/repo name.
 # They matter for GitHub Pages to build correct links (especially for the "edit this page" button).
-site_url: https://kylobsii.github.io/portfolio-cedric-charrier/
-repo_url: https://github.com/kylobsii/portfolio-cedric-charrier
-repo_name: kylobsii/portfolio-cedric-charrier
+site_url: https://Kylobsii.github.io/portfolio-cedric-charrier/
+repo_url: https://github.com/Kylobsii/portfolio-cedric-charrier
+repo_name: Kylobsii/portfolio-cedric-charrier
 
 nav:
   - Home: index.md
@@ -71,7 +71,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/kylobsii
+      link: https://github.com/Kylobsii
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/cédric-charrier-8aa2a0290
     - icon: fontawesome/solid/envelope
