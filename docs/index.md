@@ -16,20 +16,29 @@ This site is my portfolio: Here you'll find my [resume](resume.md), along with t
 
 <div class="grid cards" markdown>
 
-- **🔦 Chasm**{: .card-title}
-  Short one-line pitch of the project.
-  <br>[→ Read more](projects/Chasm.md)
+- <a href="projects/Chasm/" class="card-link">
+  **🔦 Chasm**{: .card-title}
+  Play as Camille, a lost child in a dreamlike world where confusion reigns.<br>
+  Use your ability to <strong>teleport to the position of your shadow</strong> to escape from your worst fears.
+  <br><br>[→ Read More](projects/Chasm.md)
+  </a>
 
-- **🔫 Full Plastic Shooter**{: .card-title}
+- <a href="projects/Full_Plastic_Shooter/" class="card-link">
+  **🔫 Full Plastic Shooter**{: .card-title}
   Short one-line pitch of the project.
-  <br>[→ Read more](projects/Full_Plastic_Shooter.md)
+  <br><br>[→ Read More](projects/Full_Plastic_Shooter.md)
+  </a>
 
-- **🚄 SNCF Serious Game**{: .card-title}
+- <a href="projects/SNCF_SeriousGame/" class="card-link">
+  **🚄 SNCF Serious Game**{: .card-title}
   Short one-line pitch of the project.
-  <br>[→ Read more](projects/SNCF_SeriousGame.md)
+  <br><br>[→ Read More](projects/SNCF_SeriousGame.md)
+  </a>
 
-- **🎲 Spiritfarer Randomizer Mod**{: .card-title}
+- <a href="projects/Spiritfarer_Randomizer_Mod/" class="card-link">
+  **🎲 Spiritfarer Randomizer Mod**{: .card-title}
   Short one-line pitch of the project.
-  <br>[→ Read more](projects/Spiritfarer_Randomizer_Mod.md)
+  <br><br>[→ Read More](projects/Spiritfarer_Randomizer_Mod.md)
+  </a>
 
 </div>

@@ -3,10 +3,36 @@
 
 :root {
   --md-primary-fg-color: #4f46e5;
+  --page-bg-opacity: 0.5;
+  --page-bg-brightness: 1;
+  --content-overlay: rgba(0, 0, 0, 0);
 }
 
-.md-header {
-  font-weight: 600;
+/* Background image fixed on scroll with opacity and brightness control */
+body {
+  position: relative;
+}
+
+body::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: var(--page-bg);
+  background-attachment: scroll;
+  background-size: cover;
+  background-position: center;
+  opacity: var(--page-bg-opacity);
+  filter: brightness(var(--page-bg-brightness));
+  z-index: -1;
+  pointer-events: none;
+  min-height: 100vh;
+}
+
+.md-main__inner {
+  background-color: var(--content-overlay);
 }
 
 /* Slightly bigger, tighter headings for a more "personal site" feel */
@@ -15,12 +41,20 @@
   letter-spacing: -0.02em;
 }
 
+/* Justify paragraph text */
+.md-typeset p {
+  text-align: justify;
+}
+
 /* Card grid used on the home page (index.md) */
 .grid.cards {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-template-columns: 1fr;
   gap: 1rem;
   margin: 1.5rem 0;
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .grid.cards .card-title {
@@ -34,4 +68,40 @@
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 0.5rem;
   padding: 1rem;
+}
+
+/* Make strong text bolder */
+strong {
+  font-weight: 1200;
+}
+
+/* Make cards clickable as links */
+.card-link {
+  display: block;
+  text-decoration: none;
+  color: currentColor !important;
+  transition: all 0.2s ease;
+}
+
+.card-link:hover,
+.card-link:visited {
+  color: currentColor !important;
+}
+
+/* Side-by-side figures layout */
+.figures-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+  align-items: center;
+}
+
+.figures-row figure {
+  flex: 1;
+}
+
+/* Add border around images */
+.figures-row img {
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-radius: 0.5rem;
 }
