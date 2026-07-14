@@ -10,20 +10,23 @@ One-line pitch — what the mod does, in a single sentence.
 
 ## Overview
 
-2–4 sentences: what is Spiritfarer, what does "randomizer" mean in this context,
-and why you built it (fun challenge? community request? personal project?).
+2–4 sentences: what is Spiritfarer, what does "randomizer" mean in this context, and why build it.
 
-## What I built
+## My Contribution
 
-- Concrete contribution #1 — e.g. how you hooked into the game's item/event system
+- Concrete contribution #1 
 - Concrete contribution #2
 - Concrete contribution #3
 
-## Screenshots / Video
-
-<!-- ![Spiritfarer Randomizer Mod](../assets/images/spiritfarer-01.png) -->
+## Videos
 
 ## Challenges & what I learned
 
-Modding an existing game (no source access) is a great story for problem-solving —
-what did you have to reverse-engineer or work around?
+1-2 concrete problems + how worked through them
+
+<div class="project-pagination" markdown>
+  [1](Chasm.md) · 
+  [2](Full_Plastic_Shooter.md) · 
+  [3](SNCF_SeriousGame.md) · 
+  <span class="project-pagination__link project-pagination__link--current">4</span>
+</div>

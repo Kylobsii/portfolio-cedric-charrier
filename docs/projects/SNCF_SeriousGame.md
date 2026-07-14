@@ -1,4 +1,4 @@
-# SNCF Serious Game
+# 🚄 SNCF Serious Game
 
 One-line pitch — what the project is and who it was for (SNCF), in one sentence.
 
@@ -11,20 +11,24 @@ One-line pitch — what the project is and who it was for (SNCF), in one sentenc
 
 ## Overview
 
-2–4 sentences: what problem was this serious game designed to address for SNCF
-(training? safety awareness? public communication?), and what was the brief.
+2–4 sentences: what problem was this serious game designed to address for SNCF, and what was the brief.
 
-## What I built
+## My Contribution
 
 - Concrete contribution #1
 - Concrete contribution #2
 - Concrete contribution #3
 
-## Screenshots / Video
+## Videos
 
-<!-- ![SNCF Serious Game screenshot](../assets/images/sncf-01.png) -->
 
 ## Challenges & what I learned
 
-Pick 1–2 real technical problems you hit and how you solved them — working with
-a real client/brief is worth highlighting here (constraints, feedback loops, etc.).
+1-2 concrete problems + how worked through them
+
+<div class="project-pagination" markdown>
+  [1](Chasm.md) · 
+  [2](Full_Plastic_Shooter.md) · 
+  <span class="project-pagination__link project-pagination__link--current">3</span> · 
+  [4](Spiritfarer_Randomizer_Mod.md)
+</div>

@@ -1,13 +1,14 @@
-# 🔦 Chasm
-
 <style>
   :root {
-    --page-bg: url('../assets/images/Chasm_SplashArt_2.png');
+    --page-bg: url('../assets/images/Chasm/SplashArt_2.png');
     --page-bg-opacity: 1;
     --page-bg-brightness: 1;
     --content-overlay:rgba(0, 0, 0, 0.92);
+    --page-bg-color:rgb(20, 20, 20);
   }
 </style>
+
+# 🔦 Chasm
 
 Chasm is a **puzzle adventure** set in the dream, or should I say the nightmare of Camille, a small and traumatized child. Naviguate **a maze of light and shadows** using them to **teleport and reshape walls** to your wishes!<br><br>
 
@@ -15,7 +16,7 @@ Chasm is a **puzzle adventure** set in the dream, or should I say the nightmare 
 **Team size:** _10 people_ <br>
 **Duration:** _4.5 months_ <br>
 **Tools:** _Unity 6_ <br>
-**Links:** [GitHub](#) · [Play it](#) · [Trailer](#screenshots-video)
+**Links:** [GitHub](#) · [Play it](#) · [Trailer](#videos)
 
 ## Overview
 
@@ -31,12 +32,12 @@ From those themes we decided to build a game around 2 major mechanics:
 <div class="figures-row" markdown>
 
 <figure markdown>
-  ![Core Mechanic 1 — Shadow Teleport](../assets/images/GIF_Chasm_Teleport.gif){ width="400" }
+  ![Core Mechanic 1 — Shadow Teleport](../assets/images/Chasm/GIF_Teleport.gif){ width="400" }
   <figcaption>Core Mechanic 1 — Shadow Teleport</figcaption>
 </figure>
 
 <figure markdown>
-  ![Core Mechanic 2 — Anti-matter Cube](../assets/images/GIF_Chasm_ReshapeWall.gif){ width="400" }
+  ![Core Mechanic 2 — Anti-matter Cube](../assets/images/Chasm/GIF_ReshapeWall.gif){ width="400" }
   <figcaption>Core Mechanic 2 — Anti-matter Cube</figcaption>
 </figure>
 
@@ -45,7 +46,9 @@ From those themes we decided to build a game around 2 major mechanics:
 We really wanted our players to **think outside the box**, and be able to **shape their own path** through the levels. For this we designed levels that feel like **sealed boxes**, with literally **no way to escape**, traps in a way. Then we gave our players the ability to **phase through transparent surfaces or even reshape walls through the help of shadows** so they would be able to carve through the levels until they reached the exit.
 
 We worked on this game for about **four and a half months**, while still studying at Rubika Montréal. With this time we were able to create **9 levels, divided in 3 worlds** representing the three traumas of Camille.
-We're especially proud of **how much we got to polish this game** and we would definitely enjoy working again on this project given the opportunity !
+We're especially proud of **how much we got to polish this game** and we would definitely enjoy working again on this project given the opportunity!<br><br>
+
+*You can find a mention of every person that worked in the team in the [trailer](#screenshots-video). I want to add a special thanks to Pierre Delage and the education team at Rubika Montréal for their help throughout this production!*
 
 ## My Contribution
 
@@ -58,12 +61,12 @@ Seeing how fast we were able to assemble these levels **I ended up helping my co
 <div class="figures-row" markdown>
 
 <figure markdown>
-  ![Chasm — Main Menu](../assets/images/GIF_Chasm_MainMenu.gif){ width="400" }
+  ![Chasm — Main Menu](../assets/images/Chasm/GIF_MainMenu.gif){ width="400" }
   <figcaption>Main Menu</figcaption>
 </figure>
 
 <figure markdown>
-  ![Some in-engine animations](../assets/images/GIF_Chasm_BGAnimations.gif){ width="400" }
+  ![Some in-engine animations](../assets/images/Chasm/GIF_BGAnimations.gif){ width="400" }
   <figcaption>Some in-engine animations</figcaption>
 </figure>
 
@@ -109,4 +112,11 @@ Seeing how fast we were able to assemble these levels **I ended up helping my co
 
 My biggest challenge for this projet was **learning how to juggle between different tasks**. This was really an important challenge for me because I feel like it **brought me closer to my goal of becoming a Technical designer**. 
 Being able to switch from coding to making levels, while also having to animate really helped me **get a grasp of every difficulties a Technical designer might face** during a production. It's also what allowed me to make a choice for the rest of my studies. Entering 3rd year I had to make a choice between continuing in the Game Design field or transition to the Programming classes. I realized during the production of Chasm that I mostly enjoyed **being able to work as a bridge between people**. My work has a lot of meaning for me if I can help others work together better. This is why **I ended up choosing to transition to the programming class**. I wanted to have **a more diverse array of skills**, more than I wanted to refine those I already developped during the two years I did as a Game Designer.
+
+<div class="project-pagination" markdown>
+  <span class="project-pagination__link project-pagination__link--current">1</span> · 
+  [2](Full_Plastic_Shooter.md) · 
+  [3](SNCF_SeriousGame.md) · 
+  [4](Spiritfarer_Randomizer_Mod.md)
+</div>
 

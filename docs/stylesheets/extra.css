@@ -1,14 +1,10 @@
-/* Small tweaks to make the Material theme feel a bit more like a personal
-   portfolio and less like default framework docs. Tweak freely. */
-
 :root {
-  --md-primary-fg-color: #4f46e5;
   --page-bg-opacity: 0.5;
   --page-bg-brightness: 1;
   --content-overlay: rgba(0, 0, 0, 0);
+  --page-bg-color: #2a2a2a;
 }
 
-/* Background image fixed on scroll with opacity and brightness control */
 body {
   position: relative;
 }
@@ -35,18 +31,30 @@ body::before {
   background-color: var(--content-overlay);
 }
 
-/* Slightly bigger, tighter headings for a more "personal site" feel */
+.md-header {
+  background-color: var(--page-bg-color) !important;
+}
+.md-tabs {
+  background-color: var(--page-bg-color) !important;
+}
+
+.md-nav--secondary .md-nav__title,
+.md-nav__item--section > .md-nav__link {
+  background: var(--page-bg-color) !important;
+  box-shadow: 0 0 .4rem .4rem var(--page-bg-color) !important;
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
 .md-typeset h1 {
   font-weight: 700;
   letter-spacing: -0.02em;
 }
 
-/* Justify paragraph text */
 .md-typeset p {
   text-align: justify;
 }
 
-/* Card grid used on the home page (index.md) */
 .grid.cards {
   display: grid;
   grid-template-columns: 1fr;
@@ -70,12 +78,10 @@ body::before {
   padding: 1rem;
 }
 
-/* Make strong text bolder */
 strong {
   font-weight: 1200;
 }
 
-/* Make cards clickable as links */
 .card-link {
   display: block;
   text-decoration: none;
@@ -88,7 +94,6 @@ strong {
   color: currentColor !important;
 }
 
-/* Side-by-side figures layout */
 .figures-row {
   display: flex;
   justify-content: space-between;
@@ -100,8 +105,38 @@ strong {
   flex: 1;
 }
 
-/* Add border around images */
 .figures-row img {
   border: 2px solid rgba(255, 255, 255, 0.3);
   border-radius: 0.5rem;
+}
+
+.project-pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin: 2rem 0 0;
+}
+
+.project-pagination a,
+.project-pagination__link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2rem;
+  padding: 0.25rem 0.6rem;
+  border-radius: 999px;
+  color: var(--md-typeset-color);
+  text-decoration: none;
+}
+
+.project-pagination a:hover {
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.project-pagination__link--current {
+  background: rgba(255, 255, 255, 0.18);
+  cursor: default;
+  pointer-events: none;
 }
