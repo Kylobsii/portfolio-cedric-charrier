@@ -27,8 +27,9 @@ One-line pitch — what the project is and who it was for (SNCF), in one sentenc
 1-2 concrete problems + how worked through them
 
 <div class="project-pagination" markdown>
-  [1](Chasm.md) · 
-  [2](Full_Plastic_Shooter.md) · 
-  <span class="project-pagination__link project-pagination__link--current">3</span> · 
-  [4](Spiritfarer_Randomizer_Mod.md)
+  [1](Ijiraaq.md) · 
+  [2](Chasm.md) · 
+  [3](Full_Plastic_Shooter.md) · 
+  <span class="project-pagination__link project-pagination__link--current">4</span> · 
+  [5](Spiritfarer_Randomizer_Mod.md)
 </div>

@@ -12,6 +12,7 @@ nav:
   - Home: index.md
   - Resume: resume.md
   - Projects:
+      - Ijiraaq: projects/Ijiraaq.md
       - Chasm: projects/Chasm.md
       - Full Plastic Shooter: projects/Full_Plastic_Shooter.md
       - SNCF Serious Game: projects/SNCF_SeriousGame.md

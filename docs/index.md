@@ -16,6 +16,12 @@ This site is my portfolio: Here you'll find my [resume](resume.md), along with t
 
 <div class="grid cards" markdown>
 
+- <a href="projects//" class="card-link">
+  **🧊 Ijiraaq**{: .card-title}
+  Short one-line pitch of the project.
+  <br><br>[→ Read More](projects/Ijiraaq.md)
+  </a>
+
 - <a href="projects/Chasm/" class="card-link">
   **🔦 Chasm**{: .card-title}
   Play as Camille, a lost child in a dreamlike world where confusion reigns.<br>

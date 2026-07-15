@@ -114,9 +114,10 @@ My biggest challenge for this projet was **learning how to juggle between differ
 Being able to switch from coding to making levels, while also having to animate really helped me **get a grasp of every difficulties a Technical designer might face** during a production. It's also what allowed me to make a choice for the rest of my studies. Entering 3rd year I had to make a choice between continuing in the Game Design field or transition to the Programming classes. I realized during the production of Chasm that I mostly enjoyed **being able to work as a bridge between people**. My work has a lot of meaning for me if I can help others work together better. This is why **I ended up choosing to transition to the programming class**. I wanted to have **a more diverse array of skills**, more than I wanted to refine those I already developped during the two years I did as a Game Designer.
 
 <div class="project-pagination" markdown>
-  <span class="project-pagination__link project-pagination__link--current">1</span> · 
-  [2](Full_Plastic_Shooter.md) · 
-  [3](SNCF_SeriousGame.md) · 
-  [4](Spiritfarer_Randomizer_Mod.md)
+  [1](Ijiraaq.md) · 
+  <span class="project-pagination__link project-pagination__link--current">2</span> · 
+  [3](Full_Plastic_Shooter.md) · 
+  [4](SNCF_SeriousGame.md) · 
+  [5](Spiritfarer_Randomizer_Mod.md)
 </div>
 

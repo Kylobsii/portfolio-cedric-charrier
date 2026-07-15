@@ -76,8 +76,9 @@ xx
 xx
 
 <div class="project-pagination" markdown>
-  [1](Chasm.md) · 
-  <span class="project-pagination__link project-pagination__link--current">2</span> · 
-  [3](SNCF_SeriousGame.md) · 
-  [4](Spiritfarer_Randomizer_Mod.md)
+  [1](Ijiraaq.md) · 
+  [2](Chasm.md) · 
+  <span class="project-pagination__link project-pagination__link--current">3</span> · 
+  [4](SNCF_SeriousGame.md) · 
+  [5](Spiritfarer_Randomizer_Mod.md)
 </div>
