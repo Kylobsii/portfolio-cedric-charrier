@@ -10,13 +10,14 @@
 
 # 🔫 Full Plastic Shooter
 
-One-line pitch — what the game/project is, in a single punchy sentence.
+Full Plastic Shooter is a **Fast FPS** in which you play as the Gladiatoy, an old action figure fighting for his right to go on vacations with his owner. Use your **made up sticky arm** to **steal the weapons of you enemies** and tear accross everything in your path.
 
 **Role:** _Lead Game Programmer_ <br>
+**Skills:** _Project & Team Management / Tools & Systems Design_<br>
 **Team size:** _20 people_ <br>
 **Duration:** _4 months_ <br>
 **Tools:** _Unity 6.3_ <br>
-**Links:** [GitHub](#) · [Play it](#) · [Trailer](#videos)
+**Links:** [GitHub](https://github.com/Kylobsii/FFPS_SoloClassique){:target="_blank"} · [Play it](No_Play_Link.md) · [Trailer](#videos)
 
 ## Overview
 

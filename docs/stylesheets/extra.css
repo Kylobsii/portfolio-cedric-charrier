@@ -140,3 +140,8 @@ strong {
   cursor: default;
   pointer-events: none;
 }
+
+.small-text {
+  font-size: 0.65rem;
+  line-height: 1.4;
+}

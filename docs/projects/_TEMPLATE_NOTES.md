@@ -18,6 +18,7 @@ mood/atmosphere:
 One-line pitch (the hook — what it is, in a single punchy sentence). Bold the 2-3 key nouns/verbs that matter (genre, core mechanic).
 
 **Role:** what I did
+**Skills:** what skill i got to develop
 **Team size:** solo / N people
 **Duration:** X weeks/months
 **Tools:** engine, language, libraries
