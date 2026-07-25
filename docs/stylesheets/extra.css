@@ -51,7 +51,8 @@ body::before {
   letter-spacing: -0.02em;
 }
 
-.md-typeset p {
+.md-typeset p,
+.md-typeset li {
   text-align: justify;
 }
 

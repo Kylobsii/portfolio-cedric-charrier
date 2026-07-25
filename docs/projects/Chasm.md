@@ -43,7 +43,7 @@ From those themes we decided to build a game around 2 major mechanics:
 
 </div>
 
-Our objectives for the players were : 
+Our objectives for the players were: 
 
 - To **think outside the box**
 - To **shape their own path**
@@ -53,7 +53,7 @@ To encourage this we designed levels like **sealed boxes**, with literally **no 
 We designed **9 levels, divided in 3 worlds** representing the three traumas of Camille.
 We're especially proud of **how much we got to polish this game** and we would definitely enjoy working again on this project given the opportunity!<br><br>
 
-<span class="small-text">*You can find a mention of every person that worked in the team in the [trailer](#screenshots-video). I want to add a special thanks to Pierre Delage and the education team at Rubika Montréal for their help throughout this production!*</span>
+<span class="small-text">*You can find a mention of every person that worked in the team in the [trailer](#videos). I want to add a special thanks to Pierre Delage and the education team at Rubika Montréal for their help throughout this production!*</span>
 
 ## My Contribution
 
@@ -78,6 +78,7 @@ Seeing how fast we were able to assemble these levels **I ended up helping my co
 
 </div>
 
+<a id="videos"></a>
 ## Videos
 
 <figure>
