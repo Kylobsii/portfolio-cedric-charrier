@@ -123,9 +123,9 @@ Being able to switch from coding to making levels, while also having to animate 
 
 I realized during the production of Chasm that I mostly enjoyed **being able to work as a bridge between people**. This is why **I ended up choosing to transition to the programming class**. I wanted to have **a more diverse array of skills**, more than I wanted to refine those I already developped during the two years I did as a Game Designer.
 
-<div class="project-pagination" markdown>
+<div class="pagination" markdown>
   [1](Full_Plastic_Shooter.md) · 
-  <span class="project-pagination__link project-pagination__link--current">2</span> · 
+  <span class="pagination__link pagination__link--current">2</span> · 
   [3](Ijiraaq.md) · 
   [4](SNCF_SeriousGame.md) · 
   [5](Spiritfarer_Randomizer_Mod.md)

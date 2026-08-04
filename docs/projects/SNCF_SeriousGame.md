@@ -86,10 +86,10 @@ The main challenge was having to work with **clients that didn't know a lot abou
 
 As the programmer I had to be able to **create a controller** that would not only **benefit the experience**, but also be **simple enough for non-gamers**. This is why the **camera uses a drag-to-pan** type of movement, instead of an orbit drag (generally considered to be harder to control for non-gamers), and why the **character movement is driven by a single button**!
 
-<div class="project-pagination" markdown>
+<div class="pagination" markdown>
   [1](Full_Plastic_Shooter.md) · 
   [2](Chasm.md) · 
   [3](Ijiraaq.md) · 
-  <span class="project-pagination__link project-pagination__link--current">4</span> · 
+  <span class="pagination__link pagination__link--current">4</span> · 
   [5](Spiritfarer_Randomizer_Mod.md)
 </div>

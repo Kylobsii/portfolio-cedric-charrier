@@ -24,10 +24,10 @@ One-line pitch — what the mod does, in a single sentence.
 
 1-2 concrete problems + how worked through them
 
-<div class="project-pagination" markdown>
+<div class="pagination" markdown>
   [1](Full_Plastic_Shooter.md) · 
   [2](Chasm.md) · 
   [3](Ijiraaq.md) · 
   [4](SNCF_SeriousGame.md) · 
-  <span class="project-pagination__link project-pagination__link--current">5</span>
+  <span class="pagination__link pagination__link--current">5</span>
 </div>

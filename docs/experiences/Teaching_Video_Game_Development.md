@@ -1,30 +1,34 @@
-# Teaching Game Development to Middle & High School Students
+# Teaching Game Development 
 
-**Role:** _e.g. Workshop instructor / Volunteer instructor_
-**Audience:** Middle and high school students
-**When:** _Month Year – Month Year (or "Ongoing")_
-**Organization:** _name of the school, association, or program, if applicable_
+**Role:** _Introduction course Instructor_<br>
+**Audience:** _Middle and high school students_<br>
+**When:** _Jun. 2024 – Ongoing_<br>
+**Organization:** _Edavenir (formerly named Digi Activity)_
 
 ## Overview
 
-I taught the fundamentals of video game development to middle and high school
-students — introducing them to [game design basics / visual scripting / a specific
-engine like Scratch, Unity, or Godot — pick what's true] through hands-on sessions.
+I teach the f**undamentals of video game development** to middle and high school
+students, introducing them to **game design basics** / **visual scripting** / **C#** and **Unity**. I teach two different courses : 
 
-_(This framing works well because it leads with the concrete skill — "taught
-fundamentals of game dev" — rather than a vague "I teach kids", and it's honest
-about the age group, which recruiters read as real responsibility: designing
-curriculum for a specific, non-technical audience is a transferable skill —
-communication, breaking down complex ideas, patience.)_
+- An **introduction to video game development** with <u>**Construct 3**</u>: Most aspects of the **daily life of a video game developper** with **visual scripting** and **level design**. This course is **aimed at new learners** wanting to **discover the industry** without getting too much technical.
+
+- An **introduction to video game programming** with <u>**Unity**</u> : This course aims to **teach the basics of C# development** and how to **handle most of Unity's tools**. It targets **more advanced learners** that want to **try their hands at actual video game programming**.
 
 ## What I did
 
-- Designed / adapted lesson content for [age group / skill level]
-- Ran sessions covering [specific topics — e.g. game loops, sprites, basic scripting]
-- Helped students build [a small game / prototype / specific project]
+- I **designed my own lessons and exercises** for learners to follow along and learn.
+- I **put together programms** covering as many aspects as possible in a week, like **level design**, **animations**, **gameplay programming**, etc.
+- All the courses result in **a little personal project** built during the course of a week, with **basic gameplay**, **UI**, and **different levels**. 
 
 ## Why it mattered
 
-What did you get out of it, and what does it demonstrate? Teaching complex
-technical concepts to beginners is strong evidence of communication skills —
-worth stating plainly rather than assuming it's obvious.
+Teaching the basics of video game was **really important to me** as it is part of **how I discovered this industry**. I myself **was a student at some point at Digi Activity**. I wanted to **pass down my passion** in a way to new learners in the hope that they would enjoy this learning experience as much as I had.
+
+Teaching also allowed me to **learn more about my day to day work**. It helped me **better understand the fundamentals** of development, **what makes it hard**, and **what is unique** to it. 
+
+This job definitely helped me **improve my comunication skills**. **How to better explain** what I do for a living is **as relevant** in this scenario **than when trying to explain something to a colleague**. I **learned to identify what was not common knowledge** outside of my specific field of study, which **helped me get better at making myself understandable** to everyone in a team, regardless of their own fields and backgrounds.
+
+<div class="pagination" markdown>
+  [1](Montreal_Study_Semester.md) · 
+  <span class="pagination__link pagination__link--current">2</span>
+</div>

@@ -169,8 +169,8 @@ The main challenge I faced during the production was **how to flawlessly change 
 
 The other challenges I faced during this project **were linked to my role as a Lead programmer**. I had to **update the roadmap weekly** to take into account the **delays** and the **coding abilities of my team**. One key adjustment I made was reassigning enemy programming after the developer in charge was pulled into tech art, where his skills were needed more urgently. 
 
-<div class="project-pagination" markdown>
-  <span class="project-pagination__link project-pagination__link--current">1</span> · 
+<div class="pagination" markdown>
+  <span class="pagination__link pagination__link--current">1</span> · 
   [2](Chasm.md) · 
   [3](Ijiraaq.md) · 
   [4](SNCF_SeriousGame.md) · 

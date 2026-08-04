@@ -16,10 +16,10 @@ This site is my portfolio: Here you'll find my [resume](resume.md), along with t
 
 <div class="grid cards" markdown>
 
-- <a href="projects//" class="card-link">
-  **🧊 Ijiraaq**{: .card-title}
+- <a href="projects/Full_Plastic_Shooter/" class="card-link">
+  **🔫 Full Plastic Shooter**{: .card-title}
   Short one-line pitch of the project.
-  <br><br>[→ Read More](projects/Ijiraaq.md)
+  <br><br>[→ Read More](projects/Full_Plastic_Shooter.md)
   </a>
 
 - <a href="projects/Chasm/" class="card-link">
@@ -28,11 +28,11 @@ This site is my portfolio: Here you'll find my [resume](resume.md), along with t
   Use your ability to <strong>teleport to the position of your shadow</strong> to escape from your worst fears.
   <br><br>[→ Read More](projects/Chasm.md)
   </a>
-
-- <a href="projects/Full_Plastic_Shooter/" class="card-link">
-  **🔫 Full Plastic Shooter**{: .card-title}
+  
+- <a href="projects//" class="card-link">
+  **🧊 Ijiraaq**{: .card-title}
   Short one-line pitch of the project.
-  <br><br>[→ Read More](projects/Full_Plastic_Shooter.md)
+  <br><br>[→ Read More](projects/Ijiraaq.md)
   </a>
 
 - <a href="projects/SNCF_SeriousGame/" class="card-link">
