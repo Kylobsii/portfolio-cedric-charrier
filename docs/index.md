@@ -6,10 +6,10 @@ This site is my portfolio: Here you'll find my [resume](resume.md), along with t
 
 ## Quick links
 
-- 📄 [Resume](resume.md)
+- 📄 [Detailed Resume](resume.md)
 - 💻 [Projects](projects/Chasm.md)
-- 🎓 [Experience](experiences/Montreal_Study_Semester.md)
 - 🐙 [GitHub](https://github.com/kylobsii){:target="_blank"}
+- 🔗 [LinkedIn](https://www.linkedin.com/in/cédric-charrier-8aa2a0290)
 - ✉️ [c.charrier@rubika-edu.com](mailto:c.charrier@rubika-edu.com){:target="_blank"}
 
 ## Highlighted work

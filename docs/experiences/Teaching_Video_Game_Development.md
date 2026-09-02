@@ -17,7 +17,7 @@ students, introducing them to **game design basics** / **visual scripting** / **
 ## What I did
 
 - I **designed my own lessons and exercises** for learners to follow along and learn.
-- I **put together programms** covering as many aspects as possible in a week, like **level design**, **animations**, **gameplay programming**, etc.
+- I **put together programs** covering as many aspects as possible in a week, like **level design**, **animations**, **gameplay programming**, etc.
 - All the courses result in **a little personal project** built during the course of a week, with **basic gameplay**, **UI**, and **different levels**. 
 
 ## Why it mattered
