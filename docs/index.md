@@ -18,7 +18,7 @@ This site is my portfolio: Here you'll find my [resume](resume.md), along with t
 
 - <a href="projects/Full_Plastic_Shooter/" class="card-link">
   **🔫 Full Plastic Shooter**{: .card-title}
-  Short one-line pitch of the project.
+  It's time for the annual toy tournament, ol' pal. You're more clever than all these new models, <strong>use their weapons against them</strong> and claim the crown !
   <br><br>[→ Read More](projects/Full_Plastic_Shooter.md)
   </a>
 
@@ -31,19 +31,19 @@ This site is my portfolio: Here you'll find my [resume](resume.md), along with t
   
 - <a href="projects//" class="card-link">
   **🧊 Ijiraaq**{: .card-title}
-  Short one-line pitch of the project.
+  Play together in this <strong>4 players coop versus entity</strong> boardgame. In this inuit cold, there's nothing to do but <strong>run and help each other</strong>, but at the end of the day <strong>will friendship matter if YOU can make it alive ?</strong>
   <br><br>[→ Read More](projects/Ijiraaq.md)
   </a>
 
 - <a href="projects/SNCF_SeriousGame/" class="card-link">
   **🚄 SNCF Serious Game**{: .card-title}
-  Short one-line pitch of the project.
+  A short demo of a serious game made for the SNCF, about teaching future security agents about the suspicous package procedures.
   <br><br>[→ Read More](projects/SNCF_SeriousGame.md)
   </a>
 
 - <a href="projects/Spiritfarer_Randomizer_Mod/" class="card-link">
   **🎲 Spiritfarer Randomizer Mod**{: .card-title}
-  Short one-line pitch of the project.
+  There's no better way to replay a story-driven game than to randomize it. Spiritfarer is my favorite game, so let's make this randomizer a thing!
   <br><br>[→ Read More](projects/Spiritfarer_Randomizer_Mod.md)
   </a>
 
